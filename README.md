@@ -11,7 +11,8 @@ Alongside Software Development, I am also into hardware Engineering, Robotics, a
 - Tools: Git, Docker, Kubernetes, GitHub, numpy, pandas, PyTorch ......
 
 📈 GitHub Stats
-![Kamijoseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)
 
 📫 How to reach me
 - Email: [josephkiarie561@gmail.com])
