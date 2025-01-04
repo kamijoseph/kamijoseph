@@ -1,6 +1,8 @@
 About Me 👋
 
-Hi there! My name is Kami Joseph alias Cosmic Glitch. I'm a passionate Machine Learning Enthusiast, Web Developer, and Hardware Innovator 🚀. I thrive at the intersection of robotics, electronics, and AI, crafting solutions that merge creativity, technology, and intelligence.
+Hi there! My name is Kami Joseph alias Cosmic Glitch. I'm a passionate Machine Learning Enthusiast, Web Developer, and Hardware Innovator 🚀.
+
+I thrive at the intersection of robotics, electronics, and AI, crafting solutions that merge creativity, technology, and intelligence.
 
 💡 Passions: Artificial Intelligence, Transhumanism, and pushing the boundaries of what's possible with technology.
 
