@@ -1,8 +1,9 @@
-Hi there, I'm Kami Joseph 👋 alias Cosmic Glitch
+About Me 👋
+Hi there! I'm a passionate Machine Learning Enthusiast, Web Developer, and Hardware Innovator 🚀. I thrive at the intersection of robotics, electronics, and AI, crafting solutions that merge creativity, technology, and intelligence.
 
-About Me
-I'm a developer who loves building innovative solutions and exploring new technologies. I enjoy working on various projects, from web development to data science.
-Alongside Software Development, I am also into hardware Engineering, Robotics, and Electronics.
+💡 Passions: Artificial Intelligence, Transhumanism, and pushing the boundaries of what's possible with technology.
+⚙️ Skills: From building intelligent models to developing dynamic web applications and tinkering with hardware for robotics innovations.
+🎯 Philosophy: Stay disciplined, stay curious, Build, and Always Accelerate. Effective Accelerationism. e/acc.
 
 ## Skills & Tools
 
