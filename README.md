@@ -46,8 +46,6 @@ I thrive at the intersection of robotics, electronics, and AI, crafting solution
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)
 ### Top Languages
