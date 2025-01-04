@@ -15,6 +15,9 @@ Alongside Software Development, I am also into hardware Engineering, Robotics, a
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=kamijoseph&theme=radical)
+
 
 📫 How to reach me
 - Email: [josephkiarie561@gmail.com])
