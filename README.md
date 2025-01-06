@@ -61,8 +61,6 @@ I thrive at the intersection of robotics, electronics, and AI, crafting solution
 ## Fun Zone
 ![Jokes](https://readme-jokes.vercel.app/api)
 
-## Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=kamijoseph&color=blue)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamijoseph)
