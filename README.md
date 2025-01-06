@@ -55,6 +55,7 @@ I thrive at the intersection of robotics, electronics, and AI, crafting solution
 ## GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=radical)
 
+
 ## Inspiration
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
