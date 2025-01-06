@@ -52,8 +52,6 @@ I thrive at the intersection of robotics, electronics, and AI, crafting solution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
 ### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kamijoseph&theme=radical)
-## GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=radical)
 
 
 ## Inspiration
