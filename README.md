@@ -28,6 +28,7 @@ I thrive at the intersection of embedded systems,  robotics, electronics, and AI
 ### Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -50,8 +51,6 @@ I thrive at the intersection of embedded systems,  robotics, electronics, and AI
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
-
-[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamijoseph&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## Inspiration
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
