@@ -51,7 +51,7 @@ I thrive at the intersection of embedded systems,  robotics, electronics, and AI
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamijoseph&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## Inspiration
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
