@@ -54,7 +54,8 @@ I thrive at the intersection of embedded systems,  robotics, electronics, and AI
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
 
 ## Inspiration
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
+— Edsger W. Dijkstra
 
 ## Fun Zone
 ![Jokes](https://readme-jokes.vercel.app/api)
