@@ -53,7 +53,7 @@ I thrive at the intersection of embedded systems,  robotics, electronics, and AI
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
 
-## Inspiration
+## Word
 > "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
 — Edsger W. Dijkstra
 
