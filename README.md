@@ -4,9 +4,9 @@ Hi there! My name is Kami Joseph alias Cosmic Glitch. I'm a passionate Machine L
 
 I thrive at the intersection of embedded systems,  robotics, electronics, and AI, crafting solutions that merge creativity, technology, and intelligence.
 
-💡 Passions: Artificial Intelligence, Transhumanism, and pushing the boundaries of what's possible with technology.
+💡 Passions: Robotics, Artificial Intelligence, Transhumanism, and pushing the boundaries of what's possible with technology.
 
-⚙️ Skills: From building intelligent models to developing dynamic web applications and tinkering with hardware for robotics innovations.
+⚙️ Skills: Building intelligent models Developing dynamic fullstack web and mobile applications and tinkering with hardware for robotics innovations.
 
 🎯 Philosophy: Stay disciplined, stay curious, Build, and Always Accelerate. Effective Accelerationism.
 
