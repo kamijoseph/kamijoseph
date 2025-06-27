@@ -1,14 +1,15 @@
 About Me 👋
 
-Hi there! My name is Kami Joseph alias Cosmic Glitch. I'm a passionate Machine Learning Enthusiast, Web Developer, and Hardware Innovator 🚀.
+name: kami  alias  cosmic  glitch
+machine and deep learning engineer, artificial intelligence and Hardware Innovator 🚀.
 
-I thrive at the intersection of embedded systems,  robotics, electronics, and AI, crafting solutions that merge creativity, technology, and intelligence.
+i thrive at the intersection of embedded systems, robotics, electronics, and AI. lmao my mother thinks i am hacker, maybe i am
 
-💡 Passions: Robotics, Artificial Intelligence, Transhumanism, and pushing the boundaries of what's possible with technology.
+💡 Passions: mechatronics, neuromorphic engineering, artificial intelligence, transhumanism, bionics, and quant finance. lol  my friends think  i am a gambler but to be fair everyone is. i love data and divines of 6 feet.
 
-⚙️ Skills: Building intelligent models Developing dynamic fullstack web and mobile applications and tinkering with hardware for robotics innovations.
+⚙️ skills in linkedin jargon: Building intelligent models Developing dynamic fullstack web and mobile applications and tinkering with hardware for robotics innovations. haaaha, kompuuuuta cooool
 
-🎯 Philosophy: Stay disciplined, stay curious, Build, and Always Accelerate. Effective Accelerationism.
+🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings
 
 ## Skills & Tools
 
@@ -51,8 +52,8 @@ I thrive at the intersection of embedded systems,  robotics, electronics, and AI
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
 
 ## Word
-> "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
-— Edsger W. Dijkstra
+> "the question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
+— edsger w. dijkstra
 
 ## Fun Zone
 ![Jokes](https://readme-jokes.vercel.app/api)
