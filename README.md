@@ -1,9 +1,10 @@
-About Me 👋
+what you seek is seeking you pal. i have been watching. anyways welcome stranger or potential hirer
 
-name: kami  alias  cosmic  glitch
+name: kami  alias  cosmic  glitch,,,,,,,,,,,,,
+
 machine and deep learning engineer, artificial intelligence and Hardware Innovator 🚀.
 
-i thrive at the intersection of embedded systems, robotics, electronics, and AI. lmao my mother thinks i am hacker, maybe i am
+i thrive at the intersection of embedded systems, robotics, electronics, and AI. lmao my mother thinks i am a hacker, maybe i am
 
 💡 Passions: mechatronics, neuromorphic engineering, artificial intelligence, transhumanism, bionics, and quant finance. lol  my friends think  i am a gambler but to be fair everyone is. i love data and divines of 6 feet.
 
