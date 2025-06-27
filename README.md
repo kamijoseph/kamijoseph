@@ -67,4 +67,4 @@ THIS  WAS  NOT  WRITTEN  WITH  AN  LLM  BRAH
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thestringglitch)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
-i use arch bytheway anyways feel free to reach out if you want  collaborate on a project or just connect.
+i use arch bytheway anyways feel free to reach out if you want to collaborate on a project or just connect.
