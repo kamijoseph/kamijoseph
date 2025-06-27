@@ -8,9 +8,11 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 💡 Passions: mechatronics, neuromorphic engineering, artificial intelligence, transhumanism, bionics, and quant finance. lol  my friends think  i am a gambler but to be fair everyone is. i love data and divines of 6 feet.
 
-⚙️ skills in linkedin jargon: Building intelligent models Developing dynamic fullstack web and mobile applications and tinkering with hardware for robotics innovations. haaaha, kompuuuuta cooool
+⚙️ skills in linkedin jargon: Building intelligent models, Developing dynamic fullstack web and mobile applications and tinkering with hardware for robotics innovations blah blah blah. haaaha, kompuuuuta cooool
 
-🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings
+🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings, oh i remember i am cracked, locked in and a hardworker. but i value freedom too much
+
+THIS  WAS  NOT  WRITTEN  WITH  AN  LLM  BRAH
 
 ## Skills & Tools
 
