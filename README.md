@@ -52,7 +52,7 @@ THIS  WAS  NOT  WRITTEN  WITH  AN  LLM  BRAH
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark)
 
 ## Word
 > "the question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
