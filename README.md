@@ -1,6 +1,6 @@
 what you seek is seeking you pal. i have been watching. anyways welcome stranger or potential hirer
 
-name: kami  alias  cosmic  glitch,,,,,,,,,,,,,
+name: kami  joseph
 
 machine and deep learning engineer, artificial intelligence and Hardware Innovator 🚀.
 
