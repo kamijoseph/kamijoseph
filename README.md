@@ -10,7 +10,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 ⚙️ skills in linkedin jargon: Building intelligent models, Developing dynamic fullstack web and mobile applications and tinkering with hardware for robotics innovations blah blah blah. haaaha, kompuuuuta cooool
 
-🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings, oh i remember i am cracked, locked in and a hardworker. but i value freedom too much
+🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings, oh i remember it now; i am cracked, locked in and a hardworker. and i value freedom too much
 
 
 ## Skills & Tools
