@@ -12,10 +12,8 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings, oh i remember it now; i am cracked, locked in and a hardworker. and i value freedom too much
 
-<h3 align="center">🧠 Chill Coding Mode</h3>
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
-</p>
+### 🎧 Lo-fi Coding Vibes
+![Lofi](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ## Skills & Tools
