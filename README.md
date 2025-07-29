@@ -12,7 +12,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings, oh i remember it now; i am cracked, locked in and a hardworker. and i value freedom too much
 
-### 🎧 Lo-fi Coding Vibes
+### 🎧 Coding Be Like
 ![Lofi](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ![Debugging](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
 
