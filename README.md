@@ -17,7 +17,6 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ![Lofi](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
-
 ## Skills & Tools
 
 ### Programming Languages
