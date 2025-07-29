@@ -14,7 +14,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 <h3 align="center">🧠 Chill Coding Mode</h3>
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
 </p>
 
 
@@ -57,9 +57,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/kamijoseph/repo-name/main/animation.svg" />
-</p>
+![Lo-fi Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark)
