@@ -12,7 +12,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  i forgot what i  was to say pal. anyways watch me grow wings, oh i remember it now; i am cracked, locked in and a hardworker. and i value freedom too much
 
-### 🎧 Code Enojer
+### 🎧 Code Enjoyer
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 ## Skills & Tools
 
