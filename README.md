@@ -54,7 +54,6 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Coding Late Night](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Hacker Terminal](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
 
 ### Top Languages
