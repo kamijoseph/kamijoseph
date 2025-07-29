@@ -14,8 +14,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 ### 🎧 Coding Be Like
 ![Lo-fi Room](https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif)
-![Lofi](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+![Rocket Launch](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 ## Skills & Tools
 
