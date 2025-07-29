@@ -60,7 +60,6 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ![Hacker Terminal](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
 
-
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark)
 
