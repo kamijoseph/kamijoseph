@@ -57,7 +57,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Coding Late Night](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![AI Brain](https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif)
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Top Languages
