@@ -58,7 +58,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![AI Brain](https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif)
-![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Cyberpunk Dev](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark)
