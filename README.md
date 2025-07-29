@@ -58,11 +58,12 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Coding Late Night](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark)
 
-![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
 ## Word
 > "the question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
