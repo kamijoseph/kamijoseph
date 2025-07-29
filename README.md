@@ -59,6 +59,8 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 ![Retro Hacker](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 ![Cyberpunk Dev](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Satellite Vibes](https://media.giphy.com/media/hyU0RHvlNRWMM/giphy.gif)
+
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark)
