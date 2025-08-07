@@ -59,6 +59,9 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark&cache_seconds=3600)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamijoseph&theme=github)
+![trophy](https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=algolia)
+
 
 
 
