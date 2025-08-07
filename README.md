@@ -60,9 +60,6 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark&cache_seconds=3600)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)
-
-
 
 ## Word
 > "the question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
@@ -70,6 +67,10 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 ## Fun Zone
 ![Jokes](https://readme-jokes.vercel.app/api)
+
+
+## Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)
 
 
 ## Connect with Me
