@@ -59,8 +59,8 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark&cache_seconds=3600)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamijoseph&theme=github)
-![trophy](https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=algolia)
 
 
 
@@ -77,5 +77,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, and AI.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thestringglitch)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=algolia)
 
 Contact me for Projects collaboration and Work.
