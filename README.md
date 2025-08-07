@@ -1,6 +1,4 @@
-what you seek is seeking you. i have been watching. anyways welcome stranger or potential hirer
-
-NAME: Kami  Josephat
+# Kami Josephat
 
 machine and deep learning engineer, artificial intelligence and Hardware Innovator 🚀.
 
