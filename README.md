@@ -1,4 +1,4 @@
-# Kami Josephat
+# Kami Joseph
 
 machine and deep learning engineer, artificial intelligence and Hardware Innovator 🚀.
 
