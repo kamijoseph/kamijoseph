@@ -5,6 +5,9 @@ Machine and Deep learning engineer, artificial intelligence and Hardware Innovat
 
 i thrive at the intersection of embedded systems, robotics, electronics, and AI. lmao my mother thinks i am a hacker, maybe i am
 
+## 🚀 Check out y Portfolio
+[Portfolio](https://kamijoseph.github.io/Portfolio/)
+
 💡 Passions: mechatronics, neuromorphic engineering, artificial intelligence, transhumanism, bionics, and quant finance. lol  my friends think  i am a gambler but to be fair everyone is. i love data and divines of 6 feet.
 
 ⚙️ skills in linkedin jargon: Building intelligent models, Developing dynamic fullstack web and mobile applications and tinkering with hardware for robotics innovations blah blah blah. haaaha, kompuuuuta cooool
