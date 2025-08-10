@@ -4,7 +4,7 @@ Machine and Deep learning engineer, artificial intelligence and Hardware Innovat
 
 i thrive at the intersection of embedded systems, robotics, electronics, Genomics, and AI. lmao my mother thinks i am a hacker, maybe i am
 
-💡 Passions: mechatronics, neuromorphic engineering, artificial intelligence, transhumanism, bionics, and quant finance. i love data.
+💡 Passions: mechatronics, genomic & bioinformatics, neuromorphic engineering, artificial intelligence, transhumanism, bionics, and quant finance. i love data.
 
 🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  anyways set your heart ablaze and thread your own fate.
 
