@@ -11,7 +11,6 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 ## 🚀 Check out my Portfolio
 [Portfolio](https://kamijoseph.github.io/Portfolio/)
 
-### 🎧 Code Enjoyer
 ![Coding Late Night](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
