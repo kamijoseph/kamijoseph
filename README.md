@@ -55,7 +55,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 
 
 ### Consistency Record
-[![GitHub Streak](https://streak-stats.demolab.com?user=kamijoseph&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kamijoseph&theme=light&hide_border=true)](https://git.io/streak-stats)
 
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
