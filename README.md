@@ -53,10 +53,6 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-### Consistency Record
-[![GitHub Streak](https://streak-stats.demolab.com?user=kamijoseph&theme=light&hide_border=true)](https://git.io/streak-stats)
-
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Top Languages
