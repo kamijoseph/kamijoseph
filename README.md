@@ -74,12 +74,4 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamijoseph&show_icons=true&theme=radical)
 
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thestringglitch)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=algolia)
-
 Contact me for Projects collaboration and Work.
