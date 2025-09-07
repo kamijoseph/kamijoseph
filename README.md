@@ -1,6 +1,6 @@
 # Kami Joseph
 
-Machine and Deep learning engineer, artificial intelligence and Hardware Innovator 🚀.
+Machine and Deep learning engineer, artificial intelligence and Hardware Innovator 🚀
 
 i thrive at the intersection of embedded systems, robotics, electronics, Genomics, and AI. lmao my mother thinks i am a hacker, maybe i am (i am not)
 
