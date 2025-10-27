@@ -1,12 +1,18 @@
-# Kami Joseph
+<h1 align="center">hello traveller, i'm kami 🤖</h1>
+<h3 align="center">Data Scientist | ML/AI engineer | Mini Game Developer | Embedded Systems</h3>
 
-Machine and Deep learning engineer, artificial intelligence and Hardware Innovator 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;Data+Analyst;Mini+%26+2D+Game+Developer;Embedded+Systems+Engineer" alt="Typing SVG" />
+</p>
+
 
 i thrive at the intersection of embedded systems, robotics, electronics, Genomics, and AI. lmao my mother thinks i am a hacker, maybe i am (i am not)
 
 💡 Passions: mechatronics, genomics & bioinformatics, neuromorphic engineering, artificial intelligence, transhumanism, bionics, and quant finance. i love data.
 
 🎯 Philosophy: sighs...............nothing changes if nothing changes, right?  anyways set your heart ablaze and thread your own fate.
+
+---
 
 ## 🚀 Check out my Portfolio
 [Portfolio](https://kamijoseph.github.io/Portfolio/)
