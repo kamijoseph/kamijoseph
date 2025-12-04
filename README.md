@@ -86,9 +86,8 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark&hide=html,css&cache_seconds=3600)
-
+## word
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 ## Word
 > "the question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
