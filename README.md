@@ -87,7 +87,7 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=dark&hide=html,css&cache_seconds=3600)
 
 
 ## Word
