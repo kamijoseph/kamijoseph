@@ -98,7 +98,8 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 ![Jokes](https://readme-jokes.vercel.app/api)
 
 
-## Github Stats
-https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=darkhub
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=kamijoseph&theme=darkhub" />
+
 
 Contact me for Projects collaboration and Work.
