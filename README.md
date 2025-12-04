@@ -86,12 +86,8 @@ i thrive at the intersection of embedded systems, robotics, electronics, Genomic
 
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-## word
+## Words
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
-
-## Word
-> "the question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
-— edsger w. dijkstra
 
 ## Wanna hear a joke ??
 ![Jokes](https://readme-jokes.vercel.app/api)
