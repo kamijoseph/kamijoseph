@@ -7,8 +7,8 @@
 
 ---
 
-## 🚀 Check out my Portfolio
-[Portfolio](https://kamijoseph.github.io/Portfolio/)
+## 🚀 Check out my Portfolio: [Portfolio](https://kamijoseph.github.io/Portfolio/)
+
 
 ![Coding Late Night](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
