@@ -1,8 +1,8 @@
 <h1 align="center">hello traveller, i'm kami 🤖</h1>
-<h3 align="center">Data Scientist | Data Analysis | ML/AI engineer | Mini Game Developer | Embedded Systems</h3>
+<h3 align="center">Data Scientist | Python Developer | ML/AI engineer | Mini Game Developer | Hardware Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;Data+Analyst;Mini+%26+2D+Game+Developer;Embedded+Systems+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;Python-Developer;Mini+%26+2D+Game+Developer;Hardwaare-Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
