@@ -7,7 +7,7 @@
 
 ---
 
-## [🚀 My Portfolio](https://kamijoseph.github.io/Portfolio/)
+## [🚀Portfolio](https://kami-ml.netlify.app)
 
 
 ![Coding Late Night](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
