@@ -1,5 +1,5 @@
 <h1 align="center">hello traveller, i'm kami 🤖</h1>
-<h3 align="center">Machine Learning Engineer | Python Developer | Artificial Intelligence Engineer | Mini Game Developer | Hardware Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | Python Developer | Artificial Intelligence Engineer | Game Dev | Hardware Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Artificial+Intelligence+Engineer;Python+Developer;Mini+%26+2D+Game+Developer;Hardware+Enthusiast" alt="Typing SVG" />
