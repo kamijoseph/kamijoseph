@@ -68,10 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamijoseph&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamijoseph&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## Words
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
