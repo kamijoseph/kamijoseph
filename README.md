@@ -1,4 +1,4 @@
-              <h1 align="center">hello traveller, i'm kami 🤖</h1>
+<h1 align="center">hello traveller, i'm kami 🤖</h1>
 <h3 align="center">Machine Learning Engineer | Python Developer | AI Engineer | Cyber Security </h3>
 
 <p align="center">
