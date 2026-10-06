@@ -1,5 +1,5 @@
 <h1 align="center">hello traveller, i'm kami 🤖</h1>
-<h3 align="center"> Cyber Security | Python Developer | ML Engineer | ALGO-trader </h3>
+<h3 align="center"> Cyber Security | Cyber Security | ALGO-trader </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security;Python+Developer;ML+Engineer;Algorithmic+Trader" alt="Typing SVG" />
