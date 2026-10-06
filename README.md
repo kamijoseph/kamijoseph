@@ -1,4 +1,4 @@
-<h1 align="left">KAMI JOSEPH 🤖</h1>
+<h1 align="left">NAME >>>> Kami Joseph </h1>
 <h3 align="left"> Machine Learning | Cyber Security | Algorithmic Trading </h3>
 
 <p align="left">
