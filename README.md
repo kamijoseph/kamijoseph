@@ -9,10 +9,6 @@
 
 ## [🚀Portfolio](https://kami-ml.netlify.app)
 
-
-![Coding Late Night](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-
 ## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,11 +19,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-
 ### 🔥 Contribution Streak
 <img src="https://streak-stats.demolab.com?user=kamijoseph&theme=dark" />
-
-
-Contact me for Projects collaboration and Work.
