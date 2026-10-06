@@ -1,7 +1,7 @@
-<h1 align="center">hello traveller, i'm kami 🤖</h1>
-<h3 align="center"> Machine Learning | Cyber Security | Algorithmic Trading </h3>
+<h1 align="left">KAMI JOSEPH 🤖</h1>
+<h3 align="left"> Machine Learning | Cyber Security | Algorithmic Trading </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security;Machine+Learning;Algorithmic+Trading" alt="Typing SVG" />
 </p>
 
